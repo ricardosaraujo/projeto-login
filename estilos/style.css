@@ -125,7 +125,9 @@ form > a.botao {
 }
 
 form a.botao:hover {
-    background-color: #808080e1;
+    background-color: #c91212e1;
+    color: black;
+    font-weight: 500;
 }
 
 form > a.botao > span {
